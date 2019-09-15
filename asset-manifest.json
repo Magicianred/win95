@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/win95/static/css/main.7db232a7.chunk.css",
+    "main.js": "/win95/static/js/main.c4a55c87.chunk.js",
+    "main.js.map": "/win95/static/js/main.c4a55c87.chunk.js.map",
+    "runtime~main.js": "/win95/static/js/runtime~main.07cbb5a3.js",
+    "runtime~main.js.map": "/win95/static/js/runtime~main.07cbb5a3.js.map",
+    "static/js/2.0420b9dd.chunk.js": "/win95/static/js/2.0420b9dd.chunk.js",
+    "static/js/2.0420b9dd.chunk.js.map": "/win95/static/js/2.0420b9dd.chunk.js.map",
+    "index.html": "/win95/index.html",
+    "precache-manifest.952e138d610521a50fa47f246df8598e.js": "/win95/precache-manifest.952e138d610521a50fa47f246df8598e.js",
+    "service-worker.js": "/win95/service-worker.js",
+    "static/css/main.7db232a7.chunk.css.map": "/win95/static/css/main.7db232a7.chunk.css.map",
+    "static/media/global-styles.css": "/win95/static/media/MSSansSerifBold.5eea6287.woff2",
+    "static/media/shutdown.png": "/win95/static/media/shutdown.6863793f.png",
+    "static/media/startup.mp3": "/win95/static/media/startup.337a0b0e.mp3"
+  }
+}
